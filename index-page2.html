@@ -134,13 +134,18 @@
                 </nav>
                 <!-- Header with search -->
                 <div class="header-with-search">
+                    <label for="mobile-search-checkbox" class="header__mobile-search">
+                        <i class="header__mobile-search-icon fa-brands fa-searchengin fa-shake"></i>
+                    </label>
                     <div class="header__logo hide-on-tablet">
                         <a href="index.html" class="header__logo-link">
                             <img src="https://cdn-img.thethao247.vn/upload/nhathuy/2018/09/20/DUNGCT_1.jpg" alt="TTGlogo" class="header__logo-image">
                         </a>
                     </div>
 
-                    <div class="header__search">
+                    <input type="checkbox" hidden id="mobile-search-checkbox" class="header__search-checkbox">
+                    
+                    <div class="header__search hide-on-mobile">
                         <div class="header__search-input-wrap">
                             <input type="text" class="header__search-input" placeholder="Search for products here">                                                        
                             
@@ -353,6 +358,23 @@
                     </div>
                 </div>
             </div>
+            <ul class="header__sort-bar">
+                <li class="header__sort-item">
+                    <a href="" class="header__sort-link">Popular</a>
+                </li>
+                <li class="header__sort-item header__sort-item--active">
+                    <a href="" class="header__sort-link">Newest</a>
+                </li>
+                <li class="header__sort-item">
+                    <a href="" class="header__sort-link">Best-selling</a>
+                </li>
+                <li class="header__sort-item">
+                    <a href="" class="header__sort-link">
+                        Price
+                        <i class="header__sort-icon fa-solid fa-angle-down"></i>
+                    </a>                   
+                </li>
+            </ul>
         </header>
 
         <div class="app__container">

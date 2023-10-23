@@ -8,6 +8,7 @@
     --navbar-height: 50px;
     --header-with-search-height: calc(var(--header-height) - var(--navbar-height));
     --star-yellow-color: #ffce4e;
+    --header-sort-bar-height: 45px;
 }
 
 * {
@@ -153,10 +154,6 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.select-input:hover .select-input__list {
-    display: block;
 }
 
 .select-input__list {
