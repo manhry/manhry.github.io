@@ -550,7 +550,7 @@
     padding-left: 0;
     list-style: none;
     cursor: pointer;
-    height: 55vh;
+    max-height: 32vh;
     overflow-y: auto;
 }
 
@@ -1064,19 +1064,19 @@
 
 .index-product-item__price {
     display: flex;
-    margin-left: 10px;
     align-items: baseline;
-    /* flex-wrap: wrap; (used to limite the over line */
+    flex-wrap: wrap;  /* used to limite the over line */  
 }
 
 .index-product__price-old {
-    font-size: 1.3rem;
+    margin-left: 8px;
+    font-size: 1.2rem;
     color: #666;
     text-decoration: line-through;
 }
 
 .index-product__price-current {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: var(--primary-color);
     margin-left: 8px;
 }
@@ -1104,7 +1104,7 @@ i.index-product-item__assess-icon-fill {
 }
 
 .index-product-item__rating {
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 .index-product-item__star--yellow {
