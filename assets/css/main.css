@@ -1,3 +1,7 @@
+.app {
+    overflow: hidden;
+}
+
 .header {
     height: var(--header-height);
     background-image: linear-gradient(0, rgb(172, 179, 194),#0b2b30 );
@@ -466,6 +470,7 @@
 
 .header__mobile-search {
     padding: 0 12px;
+    display: none;
 }
 
 .header__mobile-search-icon {
@@ -527,7 +532,8 @@
     position: relative;
     display: inline-block;
     padding: 8px 10px;  
-    cursor: pointer;  
+    cursor: pointer; 
+    -webkit-tap-highlight-color: transparent; 
 }
 
 .header__cart-icon {
@@ -766,6 +772,7 @@
 
 .header__search-option {
     position: absolute;
+    z-index: 1;
     right: 0;
     top: 130%;
     width: 100px;
@@ -989,6 +996,59 @@
     color: var(--primary-color);
 }
 
+/* category for mobile  */
+.mobile-category {
+    display: none;
+}
+
+.mobile-category__list {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.mobile-category__list::-webkit-scrollbar {
+    display: none;
+}
+
+.mobile-category__item {
+    flex-shrink: 0;
+    margin-right: 10px;
+}
+
+.mobile-category__item:nth-of-type(3n + 1) .mobile-category__link {
+    background-color: #76e0d2;
+}
+
+.mobile-category__item:nth-of-type(3n + 2) .mobile-category__link {
+    background-color: #6eb4df;
+}
+
+.mobile-category__item:nth-of-type(3n + 3) .mobile-category__link {
+    background-color: #c36cc9;
+}
+
+.mobile-category__link {
+    --line-height: 2rem;
+    text-decoration: none;
+    color: var(--white-color);
+    font-size: 1.5rem;
+    line-height: var(--line-height);
+    height: calc(var(--line-height) * 2);
+    overflow: hidden;
+    text-align: center;
+    width: 110px;
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    border-radius: 4px;
+    font-weight: 300;
+    padding: 0 5px;
+}
+
 /* Filter base */
 .base-filter {
     display: flex;
@@ -1207,6 +1267,7 @@ i.index-product-item__assess-icon-fill {
 
 .index-product__pagination {
     margin: 35px 0;
+    padding-left: 0;
 }
 
 .footer {
