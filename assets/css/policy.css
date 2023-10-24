@@ -20,6 +20,7 @@ h1 {
 
 ul {
     margin-left: 20px;
+    line-height: 1.6rem;
 }
 
 h2 {
@@ -31,5 +32,6 @@ p {
     font-size: 16px;
     color: #2d2929;
     margin: 10px 0;
+    line-height: 1.8rem;
 }
 
