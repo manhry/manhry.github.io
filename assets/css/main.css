@@ -841,6 +841,11 @@
     position: relative;
 }
 
+.header__sort-link--unactivated {
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
 .header__sort-link::before {
     content: "";
     position: absolute;
