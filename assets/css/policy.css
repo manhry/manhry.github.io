@@ -35,3 +35,9 @@ p {
     line-height: 1.8rem;
 }
 
+.back-to-homepage {
+    display: flex;
+    text-decoration: none;
+    color: blueviolet;
+    justify-content: center;   
+}
