@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="elJnN8FyRu267nW9WN58-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="85" width="560" height="140" as="geometry" />
+          <mxGeometry x="-280" y="85" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="275" width="560" height="140" as="geometry" />
+          <mxGeometry x="-280" y="275" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/47752-200.png;" parent="1" vertex="1">
           <mxGeometry x="-260" y="97.5" width="115" height="115" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="2.5" y="97.5" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/47752-200.png;" parent="1" vertex="1">
-          <mxGeometry x="140" y="97.5" width="115" height="115" as="geometry" />
+          <mxGeometry x="177.5" y="97.5" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-10" value="&lt;i&gt;&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Shipments&lt;/font&gt;&lt;/u&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-45" y="85" width="90" height="30" as="geometry" />
+          <mxGeometry x="-35" y="85" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-12" value="s&lt;sub&gt;3&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-250" y="125" width="40" height="30" as="geometry" />
@@ -34,8 +34,8 @@
         <mxCell id="elJnN8FyRu267nW9WN58-14" value="s&lt;sub&gt;2&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10" y="125" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="elJnN8FyRu267nW9WN58-15" value="s&lt;sub&gt;4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="150" y="125" width="40" height="30" as="geometry" />
+        <mxCell id="elJnN8FyRu267nW9WN58-15" value="s&lt;sub&gt;8&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="183.81" y="125" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/premium-vector/vector-icon-cargo-truck-truck-icon-vector-free-delivery-icon_971593-333.jpg;" parent="1" vertex="1">
           <mxGeometry x="-253.69" y="310" width="102.38" height="70" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="15.120000000000005" y="310" width="102.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/premium-vector/vector-icon-cargo-truck-truck-icon-vector-free-delivery-icon_971593-333.jpg;" parent="1" vertex="1">
-          <mxGeometry x="146.31" y="310" width="102.38" height="70" as="geometry" />
+          <mxGeometry x="183.81" y="310" width="102.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-20" value="c&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-222.5" y="375" width="40" height="30" as="geometry" />
@@ -58,16 +58,16 @@
         <mxCell id="elJnN8FyRu267nW9WN58-22" value="c&lt;sub&gt;4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="46.31" y="375" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="elJnN8FyRu267nW9WN58-23" value="c&lt;sub&gt;5&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="177.5" y="375" width="40" height="30" as="geometry" />
+        <mxCell id="elJnN8FyRu267nW9WN58-23" value="c&lt;sub&gt;8&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="215" y="375" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;u&gt;Carriers&lt;/u&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-35" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="-25" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="elJnN8FyRu267nW9WN58-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.634;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="elJnN8FyRu267nW9WN58-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-213.97000000000003" y="198" as="sourcePoint" />
-            <mxPoint x="68.97891999999997" y="303" as="targetPoint" />
+            <mxPoint x="-219.6" y="200" as="sourcePoint" />
+            <mxPoint x="80" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -84,9 +84,15 @@
         </mxCell>
         <mxCell id="elJnN8FyRu267nW9WN58-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="199.46" y="201" as="sourcePoint" />
-            <mxPoint x="199" y="299" as="targetPoint" />
+            <mxPoint x="234.96" y="201" as="sourcePoint" />
+            <mxPoint x="234.5" y="299" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IJfdjwSGPwAcLwrWJsRT-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="155" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfdjwSGPwAcLwrWJsRT-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="131.19" y="340" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
